@@ -1,0 +1,79 @@
+{
+    "utbildningar": [
+      {
+        "titel": "Systemutvecklare.NET",
+        "skola": "Campus Varberg",
+        "år": "2023-Pågående"
+      },
+      {
+        "titel": "Ordningsvaktsutbildning",
+        "skola": "BYA, Polisen",
+        "år": 2020
+      },
+      {
+        "titel": "Gruppledarutbildning",
+        "skola": "Securitas",
+        "år": 2018
+      },
+      {
+        "titel": "Väktar och skyddsvaktsutbildning",
+        "skola": "BYA",
+        "år": 2011
+      },
+      {
+        "titel": "Ungdomsledarutbildning",
+        "skola": "Svenska golfförbundet",
+        "år": 2006
+      },
+      {
+        "titel": "Gymnasieutbildning IT-programmet",
+        "skola": "Ljud och bildskolan, Varberg",
+        "år": "2003-2006"
+      }
+
+    ],
+    "arbeten": [
+      {
+          "titel": "Gruppledare, Väktare och ordningsvakt",
+          "företag": "Securitas",
+          "år": "2012-Pågående"
+      },
+      {
+          "titel": "Inkassohandläggare",
+          "företag": "Arvato Finance",
+          "år": "2016-2017"
+      },
+      {
+          "titel": "Skyddsvakt",
+          "företag": "Svensk Bevakningstjänst",
+          "år": "2011-2012"
+      },
+      {
+          "titel": "Brevbärare",
+          "företag": "Posten",
+          "år": "2010"
+      },
+      {
+          "titel": "Brevbärare",
+          "företag": "Citymail",
+          "år": "2008-2009"
+      },
+      {
+          "titel": "Butikspersonal",
+          "företag": "Ica Kvantum Varberg",
+          "år": "2006-2007"
+      },
+      {
+          "titel": "Lagerarbetare",
+          "företag": "Heurlins Lackering",
+          "år": "2006"
+      },
+      {
+          "titel": "Golfproffs",
+          "företag": "Varbergs GK",
+          "år": "2006-2012"
+      }
+  ]
+  
+  }
+  

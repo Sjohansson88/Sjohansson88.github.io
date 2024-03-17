@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stefans CV-sida</title>
+    <link rel="stylesheet" href="Css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anta&display=swap" rel="stylesheet">
+</head>    
+
+<body>
+    <header class="header">
+        <a href="index.html" class="logo">Stefan SUT23</a>
+        <nav class="navbar">
+            <a href="index.html">Home</a>
+            <a href="About.html">Om mig</a>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="CV.html">CV</a>
+            <a href="Contact.html" class="active">Kontakt</a>
+        </nav>
+    </header>
+
+    <section id="contact-section" class="home">
+        <div class="container">
+            <h1>Kontakta mig</h1>
+    
+            <form action="mailto:din-email@example.com" method="post" enctype="text/plain">
+                <label for="name">Namn:</label>
+                <input type="text" id="name" name="name" required>
+    
+                <label for="email">E-post:</label>
+                <input type="text" id="email" name="email" required>
+    
+                <label for="message">Meddelande:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+    
+                <input type="submit" value="Skicka">
+            </form>
+        </div>
+    </section>
+    
+    <div class="hidden-element"></div>
+    <script src="./easter1.js"></script>
+    <script src="./easter2.js"></script>
+</body>
+
+
+</html>
